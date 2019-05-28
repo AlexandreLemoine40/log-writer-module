@@ -1,0 +1,23 @@
+{
+  "name": "log-writer-module",
+  "main": "./logModule.js",
+  "version": "1.0.0",
+  "description": "A module for NodeJS that creates a log.txt with the actual date containing different informations about the life cycle of the server.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreLemoine40/log-writer-module.git"
+  },
+  "keywords": [
+    "logs",
+    "nodejs"
+  ],
+  "author": "Alexandre Lemoine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexandreLemoine40/log-writer-module/issues"
+  },
+  "homepage": "https://github.com/AlexandreLemoine40/log-writer-module#readme"
+}
